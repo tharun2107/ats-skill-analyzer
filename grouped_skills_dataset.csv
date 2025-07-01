@@ -1,0 +1,165 @@
+Skill,Category
+HTML,Frontend
+HTML5,Frontend
+CSS,Frontend
+CSS3,Frontend
+JavaScript,Frontend
+React.js,Frontend
+React,Frontend
+Angular,Frontend
+Vue.js,Frontend
+Tailwind,Frontend
+Bootstrap,Frontend
+SASS,Frontend
+jQuery,Frontend
+TypeScript,Frontend
+Node.js,Backend
+Express.js,Backend
+Django,Backend
+Flask,Backend
+Spring Boot,Backend
+Java,Backend
+C#,Backend
+PHP,Backend
+Ruby on Rails,Backend
+NestJS,Backend
+Golang,Backend
+REST API,Backend
+GraphQL,Backend
+ASP.NET,Backend
+Docker,DevOps
+Kubernetes,DevOps
+Jenkins,DevOps
+Terraform,DevOps
+GitHub Actions,DevOps
+CI/CD,DevOps
+Ansible,DevOps
+Prometheus,DevOps
+Grafana,DevOps
+Azure Pipelines,DevOps
+Bash,DevOps
+Linux,DevOps
+Nagios,DevOps
+MySQL,Database
+PostgreSQL,Database
+MongoDB,Database
+Oracle,Database
+SQL,Database
+Firebase,Database
+SQLite,Database
+Cassandra,Database
+Redis,Database
+DynamoDB,Database
+MariaDB,Database
+ElasticSearch,Database
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+CloudFormation,Cloud
+EC2,Cloud
+S3,Cloud
+Lambda,Cloud
+ECR,Cloud
+RDS,Cloud
+CloudWatch,Cloud
+IAM,Cloud
+Cloudflare,Cloud
+BigQuery,Cloud
+Machine Learning,AI_ML
+Deep Learning,AI_ML
+NLP,AI_ML
+Natural Language Processing,AI_ML
+TensorFlow,AI_ML
+PyTorch,AI_ML
+HuggingFace,AI_ML
+scikit-learn,AI_ML
+LLM,AI_ML
+RAG,AI_ML
+Computer Vision,AI_ML
+GPT,AI_ML
+BERT,AI_ML
+OpenAI,AI_ML
+XGBoost,AI_ML
+Keras,AI_ML
+Pandas,AI_ML
+NumPy,AI_ML
+Flutter,Mobile
+React Native,Mobile
+Android,Mobile
+Kotlin,Mobile
+Swift,Mobile
+iOS,Mobile
+Xcode,Mobile
+Expo,Mobile
+Ionic,Mobile
+Jest,Testing
+Mocha,Testing
+Cypress,Testing
+Selenium,Testing
+PyTest,Testing
+UnitTest,Testing
+Junit,Testing
+Postman,Testing
+SoapUI,Testing
+OWASP,Security
+Penetration Testing,Security
+Network Security,Security
+SSL,Security
+Encryption,Security
+Firewall,Security
+Cybersecurity,Security
+Threat Modeling,Security
+SIEM,Security
+Nmap,Security
+Communication,Soft Skills
+Teamwork,Soft Skills
+Leadership,Soft Skills
+Problem Solving,Soft Skills
+Adaptability,Soft Skills
+Creativity,Soft Skills
+Critical Thinking,Soft Skills
+Time Management,Soft Skills
+Analytical Thinking,Soft Skills
+Work Ethic,Soft Skills
+Conflict Resolution,Soft Skills
+Project Management,Business & Management
+Agile,Business & Management
+Scrum,Business & Management
+Kanban,Business & Management
+Product Management,Business & Management
+Stakeholder Management,Business & Management
+Business Analysis,Business & Management
+Business Intelligence,Business & Management
+Process Optimization,Business & Management
+Risk Management,Business & Management
+OKRs,Business & Management
+Excel,Data Analysis
+Tableau,Data Analysis
+Power BI,Data Analysis
+SQL,Data Analysis
+Data Visualization,Data Analysis
+Data Cleaning,Data Analysis
+ETL,Data Analysis
+Google Analytics,Data Analysis
+Looker,Data Analysis
+DAX,Data Analysis
+SEO,Content & Marketing
+Social Media,Content & Marketing
+Content Writing,Content & Marketing
+Email Marketing,Content & Marketing
+Google Ads,Content & Marketing
+Facebook Ads,Content & Marketing
+Copywriting,Content & Marketing
+Branding,Content & Marketing
+Campaign Management,Content & Marketing
+WordPress,Content & Marketing
+Canva,Content & Marketing
+Recruiting,Human Resources
+Talent Acquisition,Human Resources
+HR Policies,Human Resources
+Payroll,Human Resources
+Employee Engagement,Human Resources
+Onboarding,Human Resources
+Conflict Management,Human Resources
+HRIS,Human Resources
+Compensation & Benefits,Human Resources
