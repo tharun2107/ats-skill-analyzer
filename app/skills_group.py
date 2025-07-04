@@ -29,8 +29,11 @@ SECTION_WEIGHTS = {
     "experience": 1.5,
     "projects": 1.4,
     "education": 1.0,
+    "certifications": 1.3,
+    "achievements": 1.2,
     "default": 1.0
 }
+
 # Skill to group mapping for fallbacks
 SKILL_GROUP_MAP = {
     'html': 'frontend',
