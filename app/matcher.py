@@ -40,6 +40,7 @@
 
 #     final_score = round((score / total_weight) * 100, 2) if total_weight > 0 else 0.0
 #     return matched, missing, final_score
+
 from rapidfuzz import fuzz, process
 from app.synonyms import normalize_skill
 from app.skills_group import SECTION_WEIGHTS
